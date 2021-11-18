@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 181ac26081a23cd41ad41ce2f4409005
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bez_imeni-2-2_0
+    21300002: Bez_imeni-2-2_1
+    21300004: Bez_imeni-2-2_2
+    21300006: Bez_imeni-2-2_3
+    21300008: Bez_imeni-2-2_4
+    21300010: Bez_imeni-2-2_5
+    21300012: Bez_imeni-2-2_6
+    21300014: Bez_imeni-2-2_7
+    21300016: Bez_imeni-2-2_8
+    21300018: Bez_imeni-2-2_9
+    21300020: Bez_imeni-2-2_10
+    21300022: Bez_imeni-2-2_11
+    21300024: Bez_imeni-2-2_12
+    21300026: Bez_imeni-2-2_13
+    21300028: Bez_imeni-2-2_14
+    21300030: Bez_imeni-2-2_15
+    21300032: Bez_imeni-2-2_16
+    21300034: Bez_imeni-2-2_17
+    21300036: Bez_imeni-2-2_18
+    21300038: Bez_imeni-2-2_19
+    21300040: Bez_imeni-2-2_20
+    21300042: Bez_imeni-2-2_21
+    21300044: Bez_imeni-2-2_22
+    21300046: Bez_imeni-2-2_23
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3238
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6003b9f159f44b54e807d56ec673a5a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3238
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07f93b4562d1304392945a9de5dd3d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_2
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3238
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcea932dbc925b449a63e51dde789296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_3
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 3238
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1908e012e87e64f479e5a3c5dd994919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_4
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 3238
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88e7370cb72e1148ad3191e1a1c836d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_5
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 3238
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bec1468338483c4c8787f696e3f255b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2428
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d0a5878c4f353429de1e366a00fd54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2428
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d2604589903d4696cc4711c6c2b75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_8
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2428
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0360110f76f05468d49e6932dcbcdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_9
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 2428
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564c15e99cd9a3479338d4b1ce766e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_10
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 2428
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48efdc33dd11b554b9d260d798127e41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_11
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 2428
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb7175dc23cc7048b4aef9bee5d4021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1618
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f6a2675d3566f4c9f40ee036a4acd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1618
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0491a5570c2674380ebb9604323295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_14
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1618
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8978492e953556e4997f74bb99d81057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_15
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1618
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb22a1b89767d0458e2eab3899e1330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_16
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1618
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319c68ba7abde74dbbb8cf71cf1223d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_17
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1618
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611b35c8aaf523f439203bfa3f5d504f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ef1b97a62e839468ada4c9c069fbb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 808
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d029273739a96b9429f5b22239702e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_20
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 808
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2e105c851124746851c8b886febefa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_21
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 808
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bde576568f84d47a2468222db67caf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_22
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 808
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db8dc3b184c7a41a7b0460e1ab34e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bez_imeni-2-2_23
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 808
+        width: 627
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79917039d2d1ef946b80dceca9a49e5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: da9af68cb11cc634ea8f6ccdd5addc7d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
